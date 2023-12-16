@@ -48,10 +48,3 @@ Projeto introdutorio em que foi feito uma tela inicial utilizando um text field!
 
 #### Tecnologias Utilizadas
 - SwiftUI
-
-```bash
-# Exemplo de comando ou código para executar um projeto específico
-$ git clone https://github.com/seu-usuario/hackatruck-swift.git
-$ cd projeto1
-$ open Projeto1.xcodeproj
-# Configure e execute o projeto no Xcode
