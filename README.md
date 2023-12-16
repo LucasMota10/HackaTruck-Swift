@@ -49,10 +49,6 @@ Projeto introdutorio em que foi feito uma tela inicial utilizando um text field!
 #### Tecnologias Utilizadas
 - SwiftUI
 
-## Como Executar os Projetos
-
-Forneça instruções passo a passo sobre como configurar e executar os projetos localmente. Inclua dependências, configurações do ambiente e quaisquer outras informações relevantes.
-
 ```bash
 # Exemplo de comando ou código para executar um projeto específico
 $ git clone https://github.com/seu-usuario/hackatruck-swift.git
